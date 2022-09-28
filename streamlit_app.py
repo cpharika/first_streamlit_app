@@ -1,3 +1,5 @@
 import streamlit
 
-streamlit.title('hi harika')
+streamlit.header('hi harika')
+
+streamlit.title('hoe r u')
